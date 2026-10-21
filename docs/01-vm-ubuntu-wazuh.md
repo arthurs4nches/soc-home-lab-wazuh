@@ -29,4 +29,6 @@ Nota: não consegui conferir o hash da ISO do Ubuntu contra o valor oficial; o d
 
 ## Resultado
 VM `wazuh-server` instalada e funcional, com NAT + Host-Only operando e snapshot `01-so-limpo` criado.
+
+
 <img width="2558" height="1033" alt="01-vm-wazuh-server" src="https://github.com/user-attachments/assets/dbdb844f-3965-433a-851c-3a91a0cf9451" />
